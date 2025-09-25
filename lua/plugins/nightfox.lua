@@ -29,7 +29,7 @@ return {
           },
         },
       })
-      vim.cmd("colorscheme nightfox") -- ใช้ carbonfox theme
+      -- vim.cmd("colorscheme carbonfox") -- ใช้ carbonfox theme
     end,
   },
 }
